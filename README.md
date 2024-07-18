@@ -2,7 +2,12 @@
 
 ## Project Overview
 
-This project analyzes layoff data from various companies across different countries for the years 2022 and 2023. The dataset includes information about the companies, the number of employees laid off, and the funds raised by these companies.This project performs exploratory data analysis (EDA) on layoff data from various companies across different countries for the years 2022 and 2023 using SQL. The dataset includes information about the companies, the number of employees laid off, and the funds raised by these companies. The primary goal is to uncover trends and patterns in layoffs across different sectors and regions.
+# Company Layoff Analysis (2022-2023)
+
+## Project Overview
+
+This project analyzes layoff data from various companies across different countries for the years 2022 and 2023. The dataset includes information about the companies, the number of employees laid off, and the funds raised by these companies. The primary goal is to provide insights into trends and patterns in layoffs across different sectors and regions.
+
 
 
 ## Dataset
